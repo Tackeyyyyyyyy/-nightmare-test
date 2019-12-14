@@ -2,11 +2,10 @@
 
 ### usage
 
+```
 npm install
 
 npm test
-
+```
 
 ### result
-
-
