@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test",
   "dependencies": {
-    "ava": "^0.22.0",
+    "ava": "^5.1.0",
     "puppeteer": "^0.9.0"
   },
   "scripts": {
